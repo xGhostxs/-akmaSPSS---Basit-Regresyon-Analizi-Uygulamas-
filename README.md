@@ -1,0 +1,1 @@
+# -akmaSPSS---Basit-Regresyon-Analizi-Uygulamas-
