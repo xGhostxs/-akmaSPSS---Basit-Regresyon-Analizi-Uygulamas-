@@ -17,10 +17,9 @@ Python ile Tkinter kullanılarak yapılmış, CSV/Excel dosyası yükleyip regre
 - Matplotlib
 - Scipy (istatistik)
 
-## Kurulum ve Çalıştırma
-``bash
+## Kurulum 
 pip install pandas numpy matplotlib scipy
-python caksmaspss.py
+
 ## Kullanım
 Dosya yükle ya da elle veri gir
 
